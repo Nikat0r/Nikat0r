@@ -4,17 +4,32 @@ I build SOC labs, write up investigations, and work at the level of the systems 
 
 ## Toolbox
 
+**Hands-on** (used in my labs and write-ups)
+
 | Area | Tools |
 |---|---|
 | SIEM and logging | Splunk, Wazuh, Elastic (Kibana), Sysmon, Windows Event Logs |
 | SOAR and case management | Shuffle, TheHive, VirusTotal |
 | Detection and adversary emulation | MITRE ATT&CK, Atomic Red Team |
-| Investigation and forensics | Wireshark, tshark, Volatility, CyberChef, EvtxECmd |
+| Investigation and forensics | Wireshark, tshark, Volatility |
+| Scripting | Bash, PowerShell |
 | Vulnerability management | Qualys VMDR |
 | Environments | Active Directory, Windows, Linux, Docker |
-| Languages | C, C++ |
+| Languages | C, C++, Bash |
 
-**Currently learning:** Sigma rules, threat hunting, Microsoft Sentinel and KQL, Python.
+**Training coverage** (TryHackMe Rooms)
+
+| Area | Covered |
+|---|---|
+| SOC operations | Alert triage, classification and escalation, incident reporting and documentation |
+| SOC solutions | SIEM (Splunk and Elastic), EDR and SOAR concepts |
+| Phishing analysis | Email header analysis, malicious attachments, phishing prevention |
+| Network analysis and monitoring | Wireshark, tshark, Snort, Zeek, NetworkMiner |
+| Endpoint monitoring | Windows event logs, Sysmon, Sysinternals, Osquery, Windows registry forensics |
+| Threat intelligence | MISP, OpenCTI, YARA |
+| Offensive basics | Nmap, Metasploit, Burp Suite, SQL injection basics, Hydra, Gobuster |
+
+**Currently learning:** detection engineering with Sigma, threat hunting, Microsoft Sentinel and KQL, Python.
 
 ## Security labs
 

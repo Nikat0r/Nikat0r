@@ -17,7 +17,7 @@ I build SOC labs, write up investigations, and work at the level of the systems 
 | Environments | Active Directory, Windows, Linux, Docker |
 | Languages | C, C++, Bash |
 
-**Training coverage** (TryHackMe Rooms)
+**Training coverage** (TryHackMe rooms)
 
 | Area | Covered |
 |---|---|

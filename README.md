@@ -2,34 +2,9 @@
 
 I build SOC labs, write up investigations, and work at the level of the systems underneath them. Open to SOC analyst and blue-team roles, and to security-flavoured software roles.
 
-## Toolbox
+**Stack:** Splunk · Wazuh · Elastic · Sysmon · Shuffle · MITRE ATT&CK · Wireshark · C and C++
 
-**Hands-on** (used in my labs and write-ups)
-
-| Area | Tools |
-|---|---|
-| SIEM and logging | Splunk, Wazuh, Elastic (Kibana), Sysmon, Windows Event Logs |
-| SOAR and case management | Shuffle, TheHive, VirusTotal |
-| Detection and adversary emulation | MITRE ATT&CK, Atomic Red Team |
-| Investigation and forensics | Wireshark, tshark, Volatility |
-| Scripting | Bash, PowerShell |
-| Vulnerability management | Qualys VMDR |
-| Environments | Active Directory, Windows, Linux, Docker |
-| Languages | C, C++, Bash |
-
-**Training coverage** (TryHackMe rooms)
-
-| Area | Covered |
-|---|---|
-| SOC operations | Alert triage, classification and escalation, incident reporting and documentation |
-| SOC solutions | SIEM (Splunk and Elastic), EDR and SOAR concepts |
-| Phishing analysis | Email header analysis, malicious attachments, phishing prevention |
-| Network analysis and monitoring | Wireshark, tshark, Snort, Zeek, NetworkMiner |
-| Endpoint monitoring | Windows event logs, Sysmon, Sysinternals, Osquery, Windows registry forensics |
-| Threat intelligence | MISP, OpenCTI, YARA |
-| Offensive basics | Nmap, Metasploit, Burp Suite, SQL injection basics, Hydra, Gobuster |
-
-**Currently learning:** detection engineering with Sigma, threat hunting, Microsoft Sentinel and KQL, Python.
+[Security labs](#security-labs) · [Write-ups](#write-ups) · [Software projects](#software-projects) · [Toolbox](#toolbox)
 
 ## Security labs
 
@@ -57,3 +32,34 @@ Low-level C and C++ from the 42 Network curriculum. The full list is in [42-proj
 | [megashell](https://github.com/Nikat0r/megashell) | A bash-like shell in C: lexer, parser and AST, expansion, pipes, redirections, heredocs, subshells |
 | [ft_containers](https://github.com/Nikat0r/ft_containers) | The C++ vector, map, stack and set rebuilt in C++98, with a red-black tree map |
 | [webserv](https://github.com/Nikat0r/webserv) | An NGINX-like HTTP server in C++ with I/O multiplexing and CGI |
+
+## Toolbox
+
+**Hands-on** (used in my labs and write-ups)
+
+| Area | Tools |
+|---|---|
+| SIEM and logging | Splunk, Wazuh, Elastic (Kibana), Sysmon, Windows Event Logs |
+| SOAR and case management | Shuffle, TheHive, VirusTotal |
+| Detection and adversary emulation | MITRE ATT&CK, Atomic Red Team |
+| Investigation and forensics | Wireshark, tshark, Volatility |
+| Scripting | Bash, PowerShell |
+| Vulnerability management | Qualys VMDR |
+| Environments | Active Directory, Windows, Linux, Docker |
+| Languages | C, C++ |
+
+**Training coverage**
+
+| Area | Covered |
+|---|---|
+| SOC operations | Alert triage, classification and escalation, incident reporting and documentation |
+| SOC solutions | SIEM (Splunk and Elastic), EDR and SOAR concepts |
+| Phishing analysis | Email header analysis, malicious attachments, phishing prevention |
+| Network analysis and monitoring | Wireshark, tshark, Snort, Zeek, NetworkMiner |
+| Endpoint monitoring | Windows event logs, Sysmon, Sysinternals, Osquery, Windows registry forensics |
+| Threat intelligence | MISP, OpenCTI, YARA |
+| Offensive basics | Nmap, Metasploit, Burp Suite, SQL injection basics, Hydra, Gobuster |
+
+[**TryHackMe**](https://tryhackme.com/p/Nikator): top 1% globally
+
+**Currently learning:** detection engineering with Sigma, threat hunting, Microsoft Sentinel and KQL, Python.

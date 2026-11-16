@@ -2,7 +2,7 @@
 
 I build SOC labs, write up investigations, and work at the level of the systems underneath them. Open to SOC analyst and blue-team roles, and to security-flavoured software roles.
 
-**Stack:** Splunk · Wazuh · Elastic · Sysmon · Shuffle · MITRE ATT&CK · Wireshark · C and C++
+**Stack:** Splunk · Wazuh · Elastic · Sysmon · Sigma · Shuffle · MITRE ATT&CK · Wireshark · C and C++
 
 [Security labs](#security-labs) · [Write-ups](#write-ups) · [Software projects](#software-projects) · [Toolbox](#toolbox)
 
@@ -41,7 +41,7 @@ Low-level C and C++ from the 42 Network curriculum. The full list is in [42-proj
 |---|---|
 | SIEM and logging | Splunk, Wazuh, Elastic (Kibana), Sysmon, Windows Event Logs |
 | SOAR and case management | Shuffle, TheHive, VirusTotal |
-| Detection and adversary emulation | MITRE ATT&CK, Atomic Red Team |
+| Detection and adversary emulation | MITRE ATT&CK, Atomic Red Team, Sigma |
 | Investigation and forensics | Wireshark, tshark, Volatility |
 | Scripting | Bash, PowerShell |
 | Vulnerability management | Qualys VMDR |
@@ -62,4 +62,4 @@ Low-level C and C++ from the 42 Network curriculum. The full list is in [42-proj
 
 [**TryHackMe**](https://tryhackme.com/p/Nikator): top 1% globally
 
-**Currently learning:** detection engineering with Sigma, threat hunting, Microsoft Sentinel and KQL, Python.
+**Currently learning:** threat hunting, Microsoft Sentinel and KQL, Python.

@@ -4,7 +4,7 @@ I build SOC labs, write up investigations, and work at the level of the systems 
 
 **Stack:** Splunk · Wazuh · Elastic · Sysmon · Sigma · Shuffle · MITRE ATT&CK · Wireshark · C and C++
 
-[Security labs](#security-labs) · [Write-ups](#write-ups) · [Software projects](#software-projects) · [Toolbox](#toolbox)
+[Security labs](#security-labs) · [Write-ups](#write-ups) · [Detection engineering](#detection-engineering) · [Software projects](#software-projects) · [Toolbox](#toolbox)
 
 ## Security labs
 
@@ -23,6 +23,9 @@ Investigation write-ups from hands-on rooms: the scenario, the tools, the approa
 - [Boogeyman 1-3](https://github.com/Nikat0r/Write-ups/tree/main/tryhackme/boogeyman): email analysis, PowerShell logs, DNS exfiltration, memory forensics and ELK
 - [Fixit](https://github.com/Nikat0r/Write-ups/tree/main/tryhackme/fixit): repairing Splunk ingestion and field extraction
 - [ShadowTrace](https://github.com/Nikat0r/Write-ups/tree/main/tryhackme/shadowtrace): static triage of a suspicious binary
+
+## Detection engineering
+- [Sigma PsExec Detection](https://github.com/Nikat0r/Sigma-PsExec-Detection): Two Sigma rules for PsExec service installation (default and renamed), tested on real Windows events with Chainsaw, with a repeatable test script and CI validation
 
 ## Software projects
 

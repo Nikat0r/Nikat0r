@@ -18,6 +18,7 @@ I build SOC labs, write up investigations, and work at the level of the systems 
 
 Investigation write-ups from hands-on rooms: the scenario, the tools, the approach, the detection takeaways and the mistakes I made. All in [Write-ups](https://github.com/Nikat0r/Write-ups).
 
+- [DetectMare](https://github.com/Nikat0r/Write-ups/tree/main/tryhackme/detectmare): tuning Sigma rules for an APT21-style intrusion, from lure documents to staged archives
 - [Tempest](https://github.com/Nikat0r/Write-ups/tree/main/tryhackme/tempest): a full intrusion reconstructed from Sysmon, Windows logs and a packet capture
 - [Boogeyman 1-3](https://github.com/Nikat0r/Write-ups/tree/main/tryhackme/boogeyman): email analysis, PowerShell logs, DNS exfiltration, memory forensics and ELK
 - [Fixit](https://github.com/Nikat0r/Write-ups/tree/main/tryhackme/fixit): repairing Splunk ingestion and field extraction

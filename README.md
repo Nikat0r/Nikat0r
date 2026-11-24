@@ -60,10 +60,11 @@ Low-level C and C++ from the 42 Network curriculum. The full list is in [42-proj
 | SOC solutions | SIEM (Splunk and Elastic), EDR and SOAR concepts |
 | Phishing analysis | Email header analysis, malicious attachments, phishing prevention |
 | Network analysis and monitoring | Wireshark, tshark, Snort, Zeek, NetworkMiner |
+| Threat hunting | Hunts covering the full attack chain, from initial access to impact, in Elastic using Kibana Query Language, with a focus on correlating logs across events and hosts |
 | Endpoint monitoring | Windows event logs, Sysmon, Sysinternals, Osquery, Windows registry forensics |
 | Threat intelligence | MISP, OpenCTI, YARA |
 | Offensive basics | Nmap, Metasploit, Burp Suite, SQL injection basics, Hydra, Gobuster |
 
 [**TryHackMe**](https://tryhackme.com/p/Nikator): top 1% globally
 
-**Currently learning:** threat hunting, Microsoft Sentinel and KQL, Python.
+**Currently learning:** Microsoft Sentinel and KQL, Python.
